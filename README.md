@@ -1,1 +1,2 @@
 # capstone-project1
+due recent increase in car thefts company has decided to analyze the customer data and recommend customers to get premium insurance who owns sports cars and having basic insurance Using data, we are going to analyse and make recommendations to the company to use  by marketing team to approach different client based on factors  such as  marital status,age,gender and other factors and recommend the better insurance policy based on predefined criteria. 
